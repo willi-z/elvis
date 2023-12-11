@@ -1,0 +1,27 @@
+@import '_variables.scss';
+
+.title-card h1{
+    font-size: 5em; 
+    margin-bottom: 4vh;
+}
+
+.slide h1,h2,h3,h4,h5{
+    text-align: center;
+    font-size: 10vh; 
+    margin-bottom: 4vh;
+}
+
+a {
+    color: $color_orange;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.content p {
+    font-size: 5vh;
+}
+
+footer p {
+    font-size: 1.5rem;
+}
+
